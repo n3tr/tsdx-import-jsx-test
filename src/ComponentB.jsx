@@ -5,7 +5,7 @@ export default function ComponentB() {
   return (
     <div>
       Component B / 
-      <ComponentC className={css.ComponentJSX}/>
+      <ComponentC />
     </div>
   )
 }
